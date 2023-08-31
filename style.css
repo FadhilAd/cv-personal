@@ -1,0 +1,64 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+table, td, th{
+  border: 1px solid black;
+
+}
+
+table {
+  width: 500px; 
+}
+
+td, th {
+  width: 100px;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center ;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+  color: blue;
+  width: 161px;
+  font-size: 17px;
+  font-weight: bold;
+  background-color: hotpink ;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  background-color: yellow;
+}
+
+p {  
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+h3 {
+  color: green;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+th {
+  color: purple;
+  font-weight: bold;
+}
+
+ol {
+  margin-top: 1px;
+}
